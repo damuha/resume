@@ -1,37 +1,245 @@
-## Welcome to GitHub Pages
+# 職務経歴書
 
-You can use the [editor on GitHub](https://github.com/damuha/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 基本情報
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|||
+|---|---|
+|氏名|咸 多栄（Ham Dayoung）|
+|Twitter|[@damuha_](https://twitter.com/damuha_)|
+|Qiita|[@damuha](https://qiita.com/damuha)|
+|note|[damuha](https://note.com/damuha)|
+|Zenn|[damuha](https://zenn.dev/damuha)|
+|個人開発|[sister（シスター）](https://sisterwith.com)|
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 経験領域
 
-```markdown
-Syntax highlighted code block
+### マネージメント
+- プロジェクトリーダー、チーム管理、社内調整、進捗管理、課題管理
+<br></br>
 
-# Header 1
-## Header 2
-### Header 3
+### エンジニアリング
+- 要件定義、基本設計、詳細設計、DB設計、API設計
+- インフラ構築、IoT、ネットワーク、DNS関連
+- Webアプリケーション開発（バックエンド、フロントエンド）
+- リリース作業
+- 社内システム保守・運用
+- ドメイン駆動設計での開発
+<br></br>
 
-- Bulleted
-- List
+### その他
+- グローバル案件（英語でのメール、会議参加（議事録作成））
+- IoT案件でタイに出張（２週間）
+- 新人教育
+<br></br>
 
-1. Numbered
-2. List
+### 業務外
+- 個人開発（リリース・運営）
+- コミュニティオーガナイザー
+<br></br>
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 技術スタック
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 言語
 
-### Jekyll Themes
+- HTML
+- CSS
+- Sass(SCSS)
+- JavaScript
+- Ruby
+- PHP
+- Java
+- C#
+- VB.net
+- SQL(MySQL, PostgreSQL)
+<br></br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damuha/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### フレームワーク・ライブラリ
 
-### Support or Contact
+- Vue.js
+- React.js
+- Redux
+- Ruby on Rails
+- Laravel
+- jQuery
+<br></br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### その他
+- Docker
+- AWS
+    - EC2
+    - S3
+    - CodeDeploy
+- CicleCI
+- Heroku(個人開発)
+- Firebase
+- Windows Server
+- Linux
+- M365
+- Active Directory
+- DNS
+
+<br></br>
+
+---
+
+## 職務経歴
+<br>
+
+### ▼都内自社受託開発企業（2020/08 - 現在）
+
+#### 旅行決済サービス開発（2021/01 - 現在）
+- **役割**
+    - プロジェクトリーダー
+- **プロジェクト詳細**
+    - 要件定義
+    - 管理：課題管理、ToDo管理、メンバーフォロー
+    - 設計：基本設計、詳細設計、DB設計、API設計
+    - テスト：単体テスト、結合テスト、総合テスト
+    - 開発：ドメイン駆動設計でのLaravel＋Vue.jsの開発
+    - リリース対応
+<br></br>
+
+#### マッチングアプリ改修（2020/08 - 2020/12）
+- **役割**
+    - メインエンジニア
+- **プロジェクト詳細**
+    - 設計：基本設計、詳細設計、DB設計、API設計
+    - 社内調整（インフラ、アプリ）
+    - テスト：単体テスト、結合テスト、総合テスト
+    - 開発：Rails ＋ Reactでの SPA 開発, モバイルアプリ用のAPI作成
+    - リリース対応（CicleCI、GitHub、CodeDeployによるリリース自動化）
+<br></br>
+
+### ▼都内SIer中小企業（2018/08 - 2020/07)
+</br>
+
+#### 金融企業メールシステム、アプリ管理運用・保守（2019/09 - 2020/07）
+- **役割**
+    - プロジェクトリーダー
+- **プロジェクト詳細**
+    - 問い合わせ対応
+    - インシデント対応
+    - バージョンアップ対応
+    - サーバー保守
+<br></br>
+
+#### O365移行対応(グローバル)（2018/08 - 2019/03）
+- **役割**
+    - プロジェクトリーダー
+- **プロジェクト詳細**
+    - 管理：課題管理、ToDo管理
+    - MTG：定例会参加、分科会参加、USとのMTG参加
+    - 調整：メンバータスク調整、JBSチーム調整、他部署チーム調整
+    - 移行作業：オンプレとクラウド２環境間のハイブリット構成の対応。移行ユーザー整理、選定
+    - テスト：Exchange、Skype、MobileIronのテスト
+    - 各説明資料作成、英語資料作成
+<br></br>
+
+### ▼都内独立系SIer中小企業（2016/04 - 2018/07)
+#### 電気料金計算システム改修（2018/01 - 2018/07）
+- **役割**
+    - メインエンジニア
+- **プロジェクト詳細**
+    - 設計：基本設計、詳細設計
+    - テスト作成、実施：単体テスト、結合テスト
+    - 開発：C#でのシステム開発、バッチ、画面作成・改修
+<br></br>
+
+#### 社内システムのO365移行対応（2017/09 - 2018/01）
+- **役割**
+    - メインエンジニア
+- **プロジェクト詳細**
+    - 主にSharePointによる社内システム開発
+        - ワークフロー設計、開発
+        - 社内ポータル作成
+        - JavaScriptでの勤怠登録開発
+        - その他社内業務関係すべてをSharePointに移行
+    - 問い合わせ対応
+    - Teamsの運用設計
+    - 社内調整
+<br></br>
+
+#### IoT温度センサーデータ収集対応(ハード、システム)（2017/05 - 2017/08）
+- **役割**
+    - メインエンジニア
+- **プロジェクト詳細**
+    - タイの子会社が開発した温度センサーのハードのテスト取り纏め(タイ出張：2週間)
+    - 温度センサーシステムテスト
+    - 温度センサーハードテスト
+<br></br>
+
+#### 電気料金計算システム（2017/04）
+- **役割**
+    - テスター
+- **プロジェクト詳細**
+    - 単体テスト、結合テスト、総合テスト
+<br></br>
+
+#### サーバー室の温度管理システム構築（2016/11 - 2018/03）
+- **役割**
+    - メインエンジニア
+- **プロジェクト詳細**
+    - Linuxサーバー構築(OSから)
+    - 温度データ収集・解析
+    - 温度センサーデータ収集環境構築（統合管理ツールHinemosを使用）
+        - 温度センサーが取得した温度データをSMTPを使用して取得し、データを収集するシステムを一から構築
+<br></br>
+
+#### 通信線管理システム開発（2016/09 - 2016/10）
+- **役割**
+    - エンジニア
+- **プロジェクト詳細**
+    - 設計：基本設計、詳細設計
+    - テスト：単体テスト、結合テスト、総合テスト
+    - 開発：コーディング
+<br></br>
+
+#### 通信線管理システム開発（2016/09 - 2016/10）
+- **役割**
+    - エンジニア
+- **進捗管理システム開発**
+    - 設計：基本設計、詳細設計
+    - テスト：単体テスト、結合テスト、総合テスト
+    - 開発：コーディング
+<br></br>
+
+---
+
+## 業務外活動
+
+### 個人開発
+
+- **sister（シスター）を開発・運営中**
+    - [sister（シスター）](https://sisterwith.com)
+        - Rails
+        - Hroku
+        - Stripe
+        - S3
+    - [sister（シスター）ブログ](https://blog.sisterwith.com)
+        - [sister（シスター）ブログリポジトリ](https://github.com/damuha/sister-notion-blog)
+            - Notion
+            - Notion Blog(Next.js)
+            - Vercel
+
+
+### コミュニティ
+
+- **コミュニティオーガナイザー**
+    - TECHPLAY女子部でコミュニティオーガナイザー
+        -  イベント企画やもくもく会の実施
+
+### メディア
+
+- **朝日新聞にインタビュー記事掲載 〜一人の女性がエンジニアになるまで〜**
+    - 「一人の女性がエンジニアになるまで」がムーブメントになり、そのうちの一人として朝日新聞にインタビューされる
+    - 紙面にも乗りました
+        - [1人の女性がエンジニアになるまで　自信なんてなくても](https://www.asahi.com/articles/ASP347DL9P32PLFA006.html)
+        - [1人の女性がエンジニアになるまで　〜だむはの場合〜](https://note.com/damuha/n/n2562b0e8b874)
+- **Youtubeインタビュー**
+    - KENTA / 雑食系エンジニアTVでインタビューされました
+    - [女性エンジニア＆個人開発者のだむはさんにインタビュー](https://youtu.be/ieljaqRC98A)
+
