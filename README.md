@@ -240,7 +240,7 @@
     - 紙面にも乗りました
         - [1人の女性がエンジニアになるまで　自信なんてなくても](https://www.asahi.com/articles/ASP347DL9P32PLFA006.html)
         - [1人の女性がエンジニアになるまで　〜だむはの場合〜](https://note.com/damuha/n/n2562b0e8b874)
-- **Youtubeインタビュー**
+- **CodeZineでインタビュー記事掲載**
     - CodeZineでインタビューされました
         - [「メンターになる人が少ない」――だむはさんが、女性ITエンジニアのスキルキャリアシェアサービス「sister」を作って感じた課題とは](https://codezine.jp/article/detail/14653)
 - **Youtubeインタビュー**
